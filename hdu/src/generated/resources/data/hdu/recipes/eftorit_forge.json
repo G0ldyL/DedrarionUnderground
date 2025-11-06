@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "hdu:ethereum"
+    },
+    "B": {
+      "item": "hdu:fossil"
+    },
+    "C": {
+      "item": "hdu:eftorium_block"
+    },
+    "D": {
+      "item": "hdu:hope_stone"
+    }
+  },
+  "pattern": [
+    " A ",
+    "CBC",
+    "DDD"
+  ],
+  "result": {
+    "item": "hdu:eftorit_forge"
+  },
+  "show_notification": true
+}
